@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <h1 align="center">Welcome to GetMyAttention-Node 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
@@ -34,6 +36,58 @@ The GetMyAttention Node is a C++ REST server that runs on Arduino-compatible boa
 ## When will the project be complete?
 
 The project will be complete once the Node is successfully receiving, handling, and responding to requests from the Server.
+
+## Media
+
+Here are some pictures and a video demonstration of the Featherwing HUZZAH and CharlieWing node:
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="IMG_20240610_091837.jpg">
+      <img src="IMG_20240610_091837.jpg" alt="Featherwing HUZZAH board">
+    </a>
+    <div class="desc">Underside of Featherwing HUZZAH board</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="IMG_20240610_091845.jpg">
+      <img src="IMG_20240610_091845.jpg" alt="CharlieWing LED board">
+    </a>
+    <div class="desc">LED side of the CharlieWing LED array board</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="IMG_20240610_092702.jpg">
+      <img src="IMG_20240610_092702.jpg" alt="Closeup of attachment">
+    </a>
+    <div class="desc">Closeup of attachment to monitor mount</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="IMG_20240610_092726.jpg">
+      <img src="IMG_20240610_092726.jpg" alt="Distance view of attachment">
+    </a>
+    <div class="desc">Distant view showing placement for getting my attention</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <video id="video-background" autoplay loop muted>
+      <source src="VID_20240610_092156.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div class="desc">Video of schedule alerting</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
 
 ## Author
 
