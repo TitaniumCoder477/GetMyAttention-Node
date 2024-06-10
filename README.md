@@ -59,10 +59,7 @@ Figure 4: Distant view showing placement for getting my attention
 
 Figure 5: Video of schedule alerting
 
-<video id="video-background" autoplay loop muted  width="30%">
-  <source src="VID_20240610_092156.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="VID_20240610_092156.mp4">VID_20240610_092156.mp4</a>
 
 <div class="clearfix"></div>
 
